@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "416393759882",
+    "firebase_url": "https://lapor-book-4bfad-default-rtdb.firebaseio.com",
+    "project_id": "lapor-book-4bfad",
+    "storage_bucket": "lapor-book-4bfad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416393759882:android:e7fb03a8f82229e0f83173",
+        "android_client_info": {
+          "package_name": "com.example.lapor_book"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASXmN5PpOCv5gMeYR8Jv64m6vtQoeICn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
